@@ -1,3 +1,8 @@
+# 💫About Me :
+🔭 I’m currently working on a Formula 1 themed Discord Bot
+🌱 I’m currently learning Full Stack Development
+📫 How to reach me: sakshamraj229@gmail.com
+😄 Pronouns: he/him
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshamraj229) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/demonop787) 
